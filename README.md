@@ -34,13 +34,13 @@ Follow these steps to run the project locally:
 2. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/DiasGuitar/To-Do-List.git
     ```
 
 3. **Navigate to the `frontend` directory:**
 
     ```bash
-    cd your-repo/frontend
+    cd your-path/frontend
     ```
 
 4. **Run the frontend:**
