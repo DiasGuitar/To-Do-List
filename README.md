@@ -71,8 +71,8 @@ Follow these steps to run the project locally:
 
 ## Screenshots
 
-![Screenshot 1](public/screenshot1.png)
-![Screenshot 2](public/screenshot2.png)
-![Screenshot 3](public/screenshot3.png)
-![Screenshot 4](public/screenshot4.png)
-![Screenshot 5](public/screenshot5.png)
+![Screenshot 1](public/screenshots/screenshot1.png)
+![Screenshot 2](public/screenshots/screenshot2.png)
+![Screenshot 3](public/screenshots/screenshot3.png)
+![Screenshot 4](public/screenshots/screenshot4.png)
+![Screenshot 5](public/screenshots/screenshot5.png)
